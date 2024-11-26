@@ -46,6 +46,7 @@ declare module '$env/static/private' {
 	export const npm_package_scripts_check: string;
 	export const SYSTEMD_EXEC_PID: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
+	export const npm_package_dependencies_node: string;
 	export const npm_package_devDependencies_tailwindcss: string;
 	export const npm_package_devDependencies_typescript: string;
 	export const npm_package_dependencies__tailwindcss_typography: string;
@@ -162,6 +163,7 @@ declare module '$env/dynamic/private' {
 		npm_package_scripts_check: string;
 		SYSTEMD_EXEC_PID: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
+		npm_package_dependencies_node: string;
 		npm_package_devDependencies_tailwindcss: string;
 		npm_package_devDependencies_typescript: string;
 		npm_package_dependencies__tailwindcss_typography: string;
