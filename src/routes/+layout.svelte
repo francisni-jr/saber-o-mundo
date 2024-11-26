@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+	import NovidadesScreen from "../screens/NovidadesScreen.svelte";
 	import Icon from "heroicons-for-svelte";
 	import { Home as SolidHome } from "heroicons-for-svelte/icons/solid";
 	import { BookOpen as SolidBookOpen } from "heroicons-for-svelte/icons/solid";
@@ -45,12 +46,7 @@
 		<section class="w-full border p-20">
 			{@render children()}
 		</section>
-		<section class="w-full flex flex-col p-20 border">
-			<h1 class="text-6xl font-title mb-5">Novidades</h1>
-
-			<div class="bg-s animate animate-pulse p-20 my-5 rounded-xl"></div>
-			<b>Title</b>
-		</section>
+		<NovidadesScreen/>
 	</main>
 	
 	
