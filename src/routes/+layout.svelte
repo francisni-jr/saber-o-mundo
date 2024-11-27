@@ -30,13 +30,13 @@
 		<aside class="p-10 border border-s" >
 			<ul class="flex flex-wrap gap-10 justify-center aitems-center">
 				<li class="bg-gradient-to-r from-s to-t rounded-xl p-5">
-					<a href="" class="flex text-p gap-5 text-xl">
+					<a href="/" class="flex text-p gap-5 text-xl">
 						<Icon icon={SolidHome} class="icon text-3xl " />
 						<p>Início</p>
 					</a>
 				</li>
 				<li class="bg-gradient-to-r from-s to-t rounded-xl p-5">
-					<a href="" class="flex text-p gap-5 text-xl">
+					<a href="/descobrir" class="flex text-p gap-5 text-xl">
 						<Icon icon={SolidBookOpen} class="icon text-3xl " />
 						<p>Descobrir</p>
 					</a>
