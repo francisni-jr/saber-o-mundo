@@ -9,17 +9,17 @@
 
 
 
-<div class="text-s font-body text-2xl">
+<div class="text-s border font-body text-2xl">
 	<header class="p-10 border flex flex-wrap justify-around items-center">
 		<ul class="flex text-t underline gap-5">
 			<li>
-				<a href="https://youtube.com/">Canal</a>
+				<a href="https://youtube.com/">Youtube</a>
 			</li>
 			<li>
-				<a href="https://youtube.com/">Instagram</a>
+				<a href="https://instagram.com/">Instagram</a>
 			</li>
 			<li>
-				<a href="https://youtube.com/">Tiktok</a>
+				<a href="https://tiktok.com/">Tiktok</a>
 			</li>
 		</ul>
 		<div class="img p-10 rounded-full">
@@ -30,13 +30,13 @@
 		<aside class="p-10 border border-s" >
 			<ul class="flex flex-wrap gap-10 justify-center aitems-center">
 				<li class="bg-gradient-to-r from-s to-t rounded-xl p-5">
-					<a href="/" class="flex text-p gap-5 text-xl">
+					<a href="/" class="flex justify-center items-center text-p gap-5 text-xl">
 						<Icon icon={SolidHome} class="icon text-3xl " />
 						<p>Início</p>
 					</a>
 				</li>
 				<li class="bg-gradient-to-r from-s to-t rounded-xl p-5">
-					<a href="/descobrir" class="flex text-p gap-5 text-xl">
+					<a href="/descobrir" class="flex justify-center items-center text-p gap-5 text-xl">
 						<Icon icon={SolidBookOpen} class="icon text-3xl " />
 						<p>Descobrir</p>
 					</a>
