@@ -9,7 +9,7 @@
         </a>
     </li>
     <li class="bg-gradient-to-r from-s to-t rounded-xl p-5">
-        <a target="_blank" href="https://whatsapp.com/channel/0029Vay4GvJ6BIEpMiwdD43i" class="text-p gap-5 text-xl">
+        <a href="/descobrir/colaborar" class="text-p gap-5 text-xl">
             <p>Seja apoiador </p>
         </a>
     </li>

@@ -9,9 +9,9 @@
 
 
 
-<div class="text-s border font-body text-2xl">
+<div class="text-s bg-p border border-[5px] font-body text-2xl rounded-2xl bg-p">
 	<header class="p-10 border flex flex-wrap justify-around items-center">
-		<ul class="flex text-t underline gap-5">
+		<ul class="flex flex-wrap text-t gap-5">
 			<li>
 				<a href="https://youtube.com/">Youtube</a>
 			</li>
@@ -48,8 +48,6 @@
 		</section>
 		<NovidadesScreen/>
 	</main>
-	
-	
 </div>
 
 
@@ -59,5 +57,7 @@
 :global(.icon) {
 		color:white;
 }
+
+
 
 </style>
