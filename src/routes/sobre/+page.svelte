@@ -15,16 +15,7 @@
         <li class="">E muito mais...</li>
     </ul>
 
-    <h1 class="text-6xl font-title mb-10">Um pouco afundo</h1>
-    <p class="mb-10">Nós pegamos algo <b>específico</b> e o <b>generalizamos</b> para sua forma <b>global</b>.</p>
-
-    <p><b>Idioma</b> -> Cultura</p>
-    <br>
-    <p><b>Marketing</b> -> Empreendedorismo</p>
-    <br>
-    <p><b>Marketing Digital</b> -> Tecnologia -> Empreendedorismo</p>
-    <br>
-    <p><b>Idioma</b> -> Cultura -> Educação...</p>
+    <p class="mb-10">A perspectiva “bolha” é a idéia principal, onde tudo pode se encaixar nessa bolha. Essa “bolha” é a CULTURA e absolutamente tudo está relacionado a ela. Nossa visão é mostrar “como” e “porquê” é importante considerar essa bolha a tomar suas decisões.</p>
 
     <p class="my-10">Conheça os nossos recursos e saiba mais sobre o que postamos nas redes sociais:</p> 
     <a href="/descobrir" class="text-p text-xl bg-gradient-to-r from-s to-t p-5 rounded-xl">Descobrir</a>
