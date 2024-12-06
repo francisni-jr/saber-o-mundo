@@ -13,7 +13,7 @@ export default {
 			't': '#ff914d',
 		  },
 		  fontFamily: {
-			title: ["Chewy", "serif"],
+			title: ["Chau Philomene One", "sans-serif"],
 			body: ["Comfortaa", "sans-serif"],
     },
 	},
