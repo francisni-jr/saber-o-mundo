@@ -47,7 +47,13 @@
 			{@render children()}
 		</section>
 	</main>
+
+	<!-- Novidades -->
+
 	<NovidadesScreen title="Como a cultura envolve o conhecimento e quais elementos da cultura influencia no mesmo" src="" description="Publicado em: 08/12/2024; Esse vídeo aborda conceitos sobre cultura e conhecimento buscando o viés da influência um do outro. Definição de Cultura; Contexto Cultural; Cultura e Aprendizagem;" />
+	
+	<!-- Novidades -->
+
 	<footer class="my-20 w-full flex flex-col items-center justify-center">
 		<p class="mb-10 px-20 text-center">Siga nossas redes para acessar mais conteúdo:</p>
 		<a href="/descobrir" class="text-p text-xl bg-gradient-to-r from-s to-t p-5 rounded-xl">Descobrir</a>
