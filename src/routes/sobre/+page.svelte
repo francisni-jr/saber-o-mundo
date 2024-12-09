@@ -5,7 +5,7 @@
     <h1 class="text-6xl font-title mb-5">Sobre Nós</h1>
     <p class="mb-10">Somos um meio de transmissão de informação online, utilizando das redes sociais para influenciar as pessoas de maneira positiva</p>
 
-    <p class="mb-10">Aprenda sobre diferentes aspectos que estimulam o seu desenvolvimento pessoal</p>
+    <p class="mb-10">Aprenda sobre diferentes aspectos socioculturais do mundo moderno</p>
     
 
     <ul class="flex flex-col mb-20  w-full justify-center items center gap-5">

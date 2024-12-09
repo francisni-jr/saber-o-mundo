@@ -5,11 +5,15 @@
 	import { Home as SolidHome } from "heroicons-for-svelte/icons/solid";
 	import { BookOpen as SolidBookOpen } from "heroicons-for-svelte/icons/solid";
 	let { children } = $props();
-</script>
+	
+</script> 
 
+<div class="text-s bg-p font-body text-2xl h-full">
+	<div>
+		<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+		<script src="https://files.bpcontent.cloud/2024/12/09/21/20241209215359-S1KBOM9K.js"></script>
+	</div>
 
-
-<div class="text-s bg-p border border-[5px] font-body text-2xl shadow-[0_0_10px_red_inset] bg-p">
 	<header class="p-10 border flex flex-wrap justify-around items-center">
 		<ul class="flex flex-wrap text-t gap-5">
 			<li>
