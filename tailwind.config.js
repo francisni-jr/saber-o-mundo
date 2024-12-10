@@ -9,12 +9,12 @@ export default {
 	theme: {
 		colors: {
 			'p': '#ffffff',
-			's': '#ff3131',
+			's': '#5e18ea',
 			't': '#ff914d',
 		  },
 		  fontFamily: {
-			title: ["Chau Philomene One", "sans-serif"],
-			body: ["Comfortaa", "sans-serif"],
+			title: ["Caveat Brush", "cursive"],
+			body: ["Dekko", "cursive"],
     },
 	},
 	plugins: [typography, forms, containerQueries]
