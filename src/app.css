@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Dekko&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Londrina+Solid:wght@100;300;400;900&display=swap');
 
 
 
@@ -7,18 +7,18 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
-
-.caveat-brush-regular {
-    font-family: "Caveat Brush", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
   
 
 .dekko-regular {
     font-family: "Dekko", cursive;
     font-weight: 400;
+    font-style: normal;
+  }
+
+
+.comfortaa-regular {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
     font-style: normal;
   }
 

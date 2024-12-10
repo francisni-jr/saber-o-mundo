@@ -27,7 +27,7 @@
 			</li>
 		</ul>
 		<a href="/" class="img translate-y-[5px] rounded-full">
-			<img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733807485/Saber_o_Mundo__Logotype__1_-removebg-preview_wli0zu.png" alt="not found" class="w-40"/>
+			<img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="not found" class="w-40"/>
 		</a>
 	</header>
 	<main class="w-full h-auto flex flex-col" >

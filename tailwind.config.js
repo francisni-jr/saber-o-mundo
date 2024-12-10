@@ -13,8 +13,8 @@ export default {
 			't': '#ff914d',
 		  },
 		  fontFamily: {
-			title: ["Caveat Brush", "cursive"],
-			body: ["Dekko", "cursive"],
+			title: ["Londrina Solid", "sans-serif"],
+			body: ["Comfortaa", "cursive"],
     },
 	},
 	plugins: [typography, forms, containerQueries]
