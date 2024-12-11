@@ -1,12 +1,15 @@
 <script>
 	import '../app.css';
 	import NovidadesScreen from "../screens/NovidadesScreen.svelte";
+	import LoaderScreen from "../screens/LoaderScreen.svelte";
 	import Icon from "heroicons-for-svelte";
 	import { Home as SolidHome } from "heroicons-for-svelte/icons/solid";
 	import { BookOpen as SolidBookOpen } from "heroicons-for-svelte/icons/solid";
 	let { children } = $props();
 	
 </script> 
+
+<LoaderScreen/>
 
 <div class="text-s bg-p font-body text-2xl h-full">
 	<div>
@@ -63,8 +66,6 @@
 		<a href="/descobrir" class="text-p text-xl bg-t p-5 rounded-xl">Descobrir</a>
 	</footer>
 </div>
-
-
 
 <style>
 
