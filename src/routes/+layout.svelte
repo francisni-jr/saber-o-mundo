@@ -11,30 +11,13 @@
 
 <LoaderScreen/>
 
-<div class="text-s bg-p font-body text-2xl h-full">
+<div class="scroll-smooth text-s bg-p font-body text-2xl h-full">
 	<div>
 		<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
 		<script src="https://files.bpcontent.cloud/2024/12/09/21/20241209215359-S1KBOM9K.js"></script>
 	</div>
-
-	<header class="p-10 flex flex-wrap justify-around items-center">
-		<ul class="flex flex-wrap text-t gap-5">
-			<li>
-				<a href="https://youtube.com/">Youtube</a>
-			</li>
-			<li>
-				<a href="https://instagram.com/">Instagram</a>
-			</li>
-			<li>
-				<a href="https://tiktok.com/">Tiktok</a>
-			</li>
-		</ul>
-		<a href="/" class="img translate-y-[5px] rounded-full">
-			<img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="not found" class="w-40"/>
-		</a>
-	</header>
 	<main class="w-full h-auto flex flex-col" >
-		<aside class="p-10" >
+		<aside class="mt-20" >
 			<ul class="flex flex-wrap gap-10 justify-center aitems-center">
 				<li class="bg-t rounded-xl p-5">
 					<a href="/" class="flex justify-center items-center text-p gap-5 text-xl">
@@ -61,9 +44,22 @@
 	
 	<!-- Novidades -->
 
-	<footer class="my-20 w-full flex flex-col items-center justify-center">
-		<p class="mb-10 px-20 text-center">Siga nossas redes para acessar mais conteúdo:</p>
-		<a href="/descobrir" class="text-p text-xl bg-t p-5 rounded-xl">Descobrir</a>
+	<div class="my-20 w-full flex flex-col items-center justify-center">
+		<p class="mb-10 px-20 text-center">Continue navegando:</p>
+		<a href="/descobrir" class="text-p text-xl bg-t p-5 rounded-xl mb-10">Descobrir</a>
+	</div>
+	<footer class="fixed bottom-0 p-10 flex flex-wrap justify-center items-center w-full">
+		<ul class="flex text-xl flex-wrap text-t gap-5">
+			<li >
+				<a class="menuitem drop-shadow-[0_0_5px_white]" href="https://youtube.com/">Youtube</a>
+			</li>
+			<li>
+				<a class="menuitem drop-shadow-[0_0_5px_white]" href="https://instagram.com/">Instagram</a>
+			</li>
+			<li>
+				<a class="menuitem drop-shadow-[0_0_5px_white]" href="https://tiktok.com/">Tiktok</a>
+			</li>
+		</ul>
 	</footer>
 </div>
 
@@ -72,7 +68,14 @@
 :global(.icon) {
 		color:white;
 }
+::selection {
+  background: lightblue;
+  color: orange;
+}
 
+footer {
+	backdrop-filter: blur(20px);
+}
 
 
 </style>
