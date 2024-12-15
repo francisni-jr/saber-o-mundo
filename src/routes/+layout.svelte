@@ -40,7 +40,7 @@
 
 	<!-- Novidades -->
 
-	<NovidadesScreen title="Como a cultura envolve o conhecimento e quais elementos da cultura influencia no mesmo" src="" description="Será publicado: 15/12/2024; Esse vídeo aborda conceitos sobre cultura e conhecimento buscando o viés da influência um do outro. Definição de Cultura; Contexto Cultural; Cultura e Aprendizagem;" />
+	<NovidadesScreen title="Como a cultura envolve o conhecimento e quais elementos da cultura influencia no mesmo" src="" description="Será publicado: 22/12/2024; Esse vídeo aborda conceitos sobre cultura e conhecimento buscando o viés da influência um do outro. Definição de Cultura; Contexto Cultural; Cultura e Aprendizagem;" />
 	
 	<!-- Novidades -->
 
@@ -68,14 +68,13 @@
 :global(.icon) {
 		color:white;
 }
-::selection {
-  background: lightblue;
+:global ::selection {
+  background: blue;
   color: orange;
 }
 
 footer {
 	backdrop-filter: blur(20px);
 }
-
 
 </style>

@@ -8,7 +8,7 @@
 <style>
 
 .loader {
-    animation: out 3s ease-out forwards;
+    animation: out 2s ease-out forwards;
     animation-iteration-count: 1;
 }
 
