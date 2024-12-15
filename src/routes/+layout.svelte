@@ -1,15 +1,12 @@
 <script>
 	import '../app.css';
 	import NovidadesScreen from "../screens/NovidadesScreen.svelte";
-	import LoaderScreen from "../screens/LoaderScreen.svelte";
 	import Icon from "heroicons-for-svelte";
 	import { Home as SolidHome } from "heroicons-for-svelte/icons/solid";
 	import { BookOpen as SolidBookOpen } from "heroicons-for-svelte/icons/solid";
 	let { children } = $props();
 	
 </script> 
-
-<LoaderScreen/>
 
 <div class="scroll-smooth text-s bg-p font-body text-2xl h-full">
 	<div>
