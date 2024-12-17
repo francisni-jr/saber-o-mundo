@@ -1,12 +1,22 @@
+<script>
+    import Icon from "heroicons-for-svelte";
+    import { GlobeAlt, Users as SolidUsers } from "heroicons-for-svelte/icons/solid";
+    
+</script>
+
 <div class="text-center">
     <h1 class="title text-6xl font-title mb-10">Recursos</h1>
-    <ul class="content flex gap-5 flex-col text-center">
-        <li class=""><b>Redes Sociais:</b> <a href="" class="text-t">Youtube</a>, <a href="" class="text-t">Instagram</a> e <a href="" class="text-t">Tiktok</a></li>
-        <li class=""><b>Website:</b> <a href="/descobrir/#novidades" class="text-t">Novidades</a> e Informações Extras...</li>
-        <li class="">E muito mais vindo aí...</li>
-        <li class="mx-10 rounded-xl">
-            <a href="/descobrir/colaborar" class="text-t gap-5 text-xl">
-                <p>Colabore conosco</p>
+    <ul class="content flex flex-wrap gap-10 justify-center aitems-center">
+        <li class="bg-t rounded-xl p-5">
+            <a href="/descobrir/redes" class="flex justify-center items-center text-p gap-5 text-xl">
+                <Icon icon={SolidUsers} class="icon text-3xl " />
+                <p>Redes Sociais</p>
+            </a>
+        </li>
+        <li class="bg-t rounded-xl p-5">
+            <a href="/descobrir/web" class="flex justify-center items-center text-p gap-5 text-xl">
+                <Icon icon={GlobeAlt} class="icon text-3xl " />
+                <p>Website</p>
             </a>
         </li>
     </ul>
@@ -16,17 +26,18 @@
 
 
 .title {
-    animation: scaledown 4s ease-out;
+    animation: scaledown 1s ease-out;
     animation-iteration-count: 1;
 }
+
 .content {
-    animation: blur 4s ease-in-out;
+    animation: blur 1s ease-out;
     animation-iteration-count: 1;
 }
 
 @keyframes scaledown {
     from {
-        transform: scale(1.5);
+        transform: scale(1.2);
     }
     to {
         transform: scale(1);

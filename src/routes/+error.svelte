@@ -6,31 +6,32 @@
 <style>
 
 
-    .title {
-        animation: scaledown 4s ease-out;
-        animation-iteration-count: 1;
+.title {
+    animation: scaledown 1s ease-out;
+    animation-iteration-count: 1;
+}
+
+.content {
+    animation: blur 1s ease-out;
+    animation-iteration-count: 1;
+}
+
+@keyframes scaledown {
+    from {
+        transform: scale(1.2);
     }
-    .content {
-        animation: blur 4s ease-in-out;
-        animation-iteration-count: 1;
+    to {
+        transform: scale(1);
     }
-    
-    @keyframes scaledown {
-        from {
-            transform: scale(1.5);
-        }
-        to {
-            transform: scale(1);
-        }
+}
+
+@keyframes blur {
+    from {
+        filter: blur(40px);
     }
-    
-    @keyframes blur {
-        from {
-            filter: blur(40px);
-        }
-        to {
-            filter: blur(0px);
-        }
+    to {
+        filter: blur(0px);
     }
+}
     
 </style>

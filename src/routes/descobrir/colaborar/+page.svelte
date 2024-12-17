@@ -35,17 +35,18 @@
 
 
 .title {
-    animation: scaledown 4s ease-out;
+    animation: scaledown 1s ease-out;
     animation-iteration-count: 1;
 }
+
 .content {
-    animation: blur 4s ease-in-out;
+    animation: blur 1s ease-out;
     animation-iteration-count: 1;
 }
 
 @keyframes scaledown {
     from {
-        transform: scale(1.5);
+        transform: scale(1.2);
     }
     to {
         transform: scale(1);
