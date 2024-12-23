@@ -37,7 +37,7 @@
 
 	<!-- Novidades -->
 
-	<NovidadesScreen title="Como a cultura envolve o conhecimento e quais elementos da cultura influencia no mesmo" src="https://www.youtube.com/embed/kIQt14laO80?si=4vvcWC23a2ucVUWz" description="Publicado em: 22/12/2024; Esse vídeo aborda conceitos sobre cultura e conhecimento buscando o viés da influência um do outro. Definição de Cultura; Contexto Cultural; Cultura e Aprendizagem;" />
+	<NovidadesScreen title="Como o conhecimento envolve a cultura" src="https://www.youtube.com/embed/kIQt14laO80?si=4vvcWC23a2ucVUWz" description="Publicado em: 22/12/2024; Esse vídeo aborda conceitos sobre cultura e conhecimento buscando o viés da influência um do outro. Definição de Cultura; Contexto Cultural; Cultura e Aprendizagem;" />
 	
 	<!-- Novidades -->
 
