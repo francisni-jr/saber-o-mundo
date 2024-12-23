@@ -13,6 +13,7 @@
             <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733807515/Design_sem_nome_4_sdhymy.png" class=" w-[40%] rounded-xl  aspect-auto hover:cursor-cell hover:scale-[1.5] border"/>
         </div>
         </li>
+        <li class="">3. Na comunidade peça para entrar no grupo "colaborações"</li>
         <li class="">4. Após ser aprovado no grupo envie sua idéia de colaboração, o "@" da sua rede social preferida e em seguida peça para entrar no grupo "vídeos"</li>
         <li class="">5. Caso gostarmos da sua idéia você poderá nos ajudar na elaboração da mesma</li>
         <li class="">6. Após colaborar, o removeremos do grupo vídeos e faremos o mesmo processo novamente.</li>
