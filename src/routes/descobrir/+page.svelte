@@ -4,6 +4,7 @@
     
 </script>
 
+<!--
 <div class="text-center">
     <h1 class="title text-6xl font-title mb-10">Recursos</h1>
     <ul class="content flex flex-wrap gap-10 justify-center aitems-center">
@@ -20,7 +21,7 @@
             </a>
         </li>
     </ul>
-</div>  
+</div>  -->
 
 <style>
 
