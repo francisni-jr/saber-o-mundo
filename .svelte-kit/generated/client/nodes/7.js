@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/sobre/diretrizes-de-conteudo/+page.svelte";

@@ -8,7 +8,7 @@
         <div class="content flex w-full h-auto justify-center items-center mt-20">
             <iframe src="{props.src}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="bg-t rounded-xl aspect-video border drop-shadow-[0_20px_20px_ orange]"></iframe>
         </div>
-        <p class="content text-xl text-center mt-10 p-10" >{props.description}</p>
+        <p class="content text-xl text-justify mt-10 p-10" >{props.description}</p>
     </section>
     
 </div>
