@@ -7,10 +7,10 @@
 
     <ul class="content flex flex-col gap-5">
         <li class="">1. Entre no <a target="_blank" href="https://whatsapp.com/channel/0029Vay4GvJ6BIEpMiwdD43i" class="text-t">canal do whatsapp</a> <br> <div class="flex w-full h-auto justify-center items-center my-10">
-            <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733154979/pexels-anton-8100-46924_p5hxug.jpg" class=" w-[40%] rounded-xl aspect-auto hover:cursor-cell hover:scale-[1.5] border" />
+            <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733154979/pexels-anton-8100-46924_p5hxug.jpg" class=" w-[40%] rounded-xl aspect-auto hover:cursor-cell hover:scale-[1.5] drop-shadow-[0_0_5px_white]" />
         </div></li>
         <li class="">2. Na descrição do canal clique no link para entrar na comunidade <br> <div class="flex w-full h-auto justify-center items-center my-10">
-            <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733807515/Design_sem_nome_4_sdhymy.png" class=" w-[40%] rounded-xl  aspect-auto hover:cursor-cell hover:scale-[1.5] border"/>
+            <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733807515/Design_sem_nome_4_sdhymy.png" class=" w-[40%] rounded-xl  aspect-auto hover:cursor-cell hover:scale-[1.5] drop-shadow-[0_0_10px_white]"/>
         </div>
         </li>
         <li class="">3. Na comunidade peça para entrar no grupo "colaborações"</li>

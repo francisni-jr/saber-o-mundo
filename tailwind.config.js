@@ -8,9 +8,10 @@ export default {
 
 	theme: {
 		colors: {
-			'p': '#ffffff',
+			'p': '#000000',
 			's': '#5e18ea',
 			't': '#ff914d',
+			'q': '#ffffff',
 		  },
 		  fontFamily: {
 			title: ["Londrina Solid", "sans-serif"],
