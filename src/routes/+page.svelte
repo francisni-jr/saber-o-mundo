@@ -6,9 +6,9 @@
         <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="img" class="content mx-auto w-40 mb-5 drop-shadow-[0_0_30px_black]">
         </div>
     
-        <div class="w-auto content flex flex-col w-full justify-center">
+        <div class="max-w-[500px] content flex flex-col w-full justify-center">
             <p class="content mt-10 mb-10">Viajando em diversos tópicos interessantes...</p>
-            <div style="background-image: url(https://res.cloudinary.com/dncs4zash/image/upload/v1735692179/planesgif_decchi.gif);" class="aspect-square text-1xl bg-cover bg-center rounded-xl drop-shadow-[0_0_5px_black]">
+            <div style="background-image: url(https://res.cloudinary.com/dncs4zash/image/upload/v1735692179/planesgif_decchi.gif);" class=" aspect-square text-1xl bg-cover bg-center rounded-xl drop-shadow-[0_0_5px_black]">
                 <ul  class="text-center font-bold bg-s bg-opacity-[.3] rounded-xl text-t gap-5 p-10 py-20 aspect-square">
                     <li class="drop-shadow-[0_0_5px_blue] text-t" >Não há</li>
                     <li class="text-q line-through drop-shadow-[0_0_5px_blue]">Preferência</li>
