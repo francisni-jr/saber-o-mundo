@@ -9,7 +9,7 @@
 
     <p class="content text-center my-10">Conheça os nossos recursos e saiba mais sobre o que postamos nas redes sociais:</p> 
     <div class="text-center">
-        <a href="/descobrir" class="content text-p text-xl bg-t p-5 rounded-xl">Descobrir</a>
+        <a href="/descobrir" class="content text-xl bg-t p-5 rounded-xl">Descobrir</a>
     </div>
 </div>  
 

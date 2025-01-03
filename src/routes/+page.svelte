@@ -1,19 +1,20 @@
 <div class="relative text-center">
-    <div>
-        <div>
-            <h1 class="title text-6xl font-title mb-10 drop-shadow-[0_0_10px_blue]">Saber o Mundo</h1>
-        <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="img" class="content mx-auto w-40 mb-5 drop-shadow-[0_0_30px_blue]">
-        <p class="content mt-10 mb-10">Viajando em diversos tópicos interessantes...</p>
+    
+    <div class="bg-s bg-opacity-[.5] p-20 rounded-xl flex flex-wrap justify-center items-center gap-5 md:gap-20 bg-s" >
+        <div class="w-auto" >
+            <h1 class="title text-5xl font-title mb-10 drop-shadow-[0_0_10px_blue]">Saber o Mundo</h1>
+        <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="img" class="content mx-auto w-40 mb-5 drop-shadow-[0_0_30px_black]">
         </div>
     
-        <div class="content flex w-full justify-center mb-20">
-            <div style="background-image: url(https://res.cloudinary.com/dncs4zash/image/upload/v1735692179/planesgif_decchi.gif);" class="aspect-square text-1xl bg-cover bg-center">
-                <ul  class="text-center font-bold bg-s bg-opacity-[.3] rounded-xl text-t gap-5 p-10">
-                    <li class="drop-shadow-[0_0_5px_blue] text-s cursor-help hover:after:content-['O_que_você_não_vai_encontrar_por_aqui:'] after:block after:text-xl after:text-q after:p-5" >Não há</li>
+        <div class="w-auto content flex flex-col w-full justify-center">
+            <p class="content mt-10 mb-10">Viajando em diversos tópicos interessantes...</p>
+            <div style="background-image: url(https://res.cloudinary.com/dncs4zash/image/upload/v1735692179/planesgif_decchi.gif);" class="aspect-square text-1xl bg-cover bg-center rounded-xl drop-shadow-[0_0_5px_black]">
+                <ul  class="text-center font-bold bg-s bg-opacity-[.3] rounded-xl text-t gap-5 p-10 py-20 aspect-square">
+                    <li class="drop-shadow-[0_0_5px_blue] text-t" >Não há</li>
                     <li class="text-q line-through drop-shadow-[0_0_5px_blue]">Preferência</li>
                     <li class="text-q line-through drop-shadow-[0_0_5px_blue]">Limitação</li>
                     <li class="text-q line-through drop-shadow-[0_0_5px_blue]">Discriminação</li>
-                    <li class="drop-shadow-[0_0_5px_blue] mt-10 text-s cursor-help hover:after:content-['O_que_você_vai_encontrar_por_aqui:'] after:block after:text-xl after:text-q after:p-5">Contudo</li>
+                    <li class="drop-shadow-[0_0_5px_blue] mt-10 text-t">Contudo</li>
                     <li class="text-q drop-shadow-[0_0_5px_blue]" >Liberdade de expressão</li>
                     <li class="text-q drop-shadow-[0_0_5px_blue]">Versatilidade</li>
                     <li class="text-q drop-shadow-[0_0_5px_blue]">Abertura a possibilidades</li>
@@ -22,7 +23,7 @@
         </div>
     </div>
 
-    <a href="/sobre" class="content bg-t text-q text-xl bg-gt p-5 rounded-xl drop-shadow-[0_0_20px_orange]">Saiba mais</a>
+    <a href="/sobre" class="w-auto content bg-t text-q text-xl bg-gt p-5 rounded-xl drop-shadow-[0_0_20px_orange]">Saiba mais</a>
     <p class="content mt-20 text-xl">É criador de conteúdo? <a href="/descobrir/colaborar" class="text-t" >Trabalhe com a gente</a></p>
 
     

@@ -8,7 +8,10 @@
 	
 </script> 
 
-<div class="scroll-smooth text-s bg-p font-body text-2xl h-full relative">
+<div class="scroll-smooth text-q bg-p font-body text-2xl h-full relative">
+	<div class="h-[200px] w-[50px] absolute top-[200px] left-5 blur-[50px] bg-s bg-opacity-[.5] animate z-1"></div>
+	<div class="h-[200px] w-[70px] absolute top-[500px] right-5 blur-[50px] bg-s bg-opacity-[.5] animate z-1"></div>
+	<div class="h-[500px] w-[80px] absolute top-[200px] left-[300px] blur-[50px] bg-s bg-opacity-[.5] z-1"></div>
 	<div>
 		<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
 		<script src="https://files.bpcontent.cloud/2024/12/09/21/20241209215359-S1KBOM9K.js"></script>
@@ -82,8 +85,8 @@
 		color:white;
 }
 :global ::selection {
-  background: white;
-  color: blue;
+  background: orange;
+  color: white;
 }
 
 .wave { 
