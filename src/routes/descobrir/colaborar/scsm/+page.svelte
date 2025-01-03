@@ -3,7 +3,7 @@
 
 </script>
 <div class="text-justify">
-    <h1 class="title text-6xl font-title mb-20 text-center">SCSI ( Sistema de Colaboradores do Saber o Mundo)</h1>
+    <h1 class="title text-6xl font-title mb-20 text-center">SCSM ( Sistema de Colaboradores do Saber o Mundo)</h1>
     <h3 class="title text-5xl text-center font-title">Como funciona?</h3>
     <div class="content mt-10">
         <p >Em uma página específica do site estará todas as informações em um ranking de colaboradores com um selo V. I. P especial para os que atendem aos requisitos V. I. P. Essa página é monitorada pelos 2 desenvolvedores principais do projeto e ninguém mais têm acesso para modifica-la além deles, ao colaborar, +1 ponto será adicionado nessa página. A distribuição de renda se baseia nesse ranking, sendo 50% dela para os 2 desenvolvedores principais e os outros 50% divididos matematicamente através do calculo de colaborações totalizadas. Se um indivíduo x tiver 10 pontos e o indivíduo y 12 pontos, 100% da renda deles equivale a 22 pontos, como um têm 2 a mais, ganhará aproximadamente 10% a mais de renda. O pagamento é efetuado pelos desenvolvedores pessoalmente sem necessidade de intermediários.</p>

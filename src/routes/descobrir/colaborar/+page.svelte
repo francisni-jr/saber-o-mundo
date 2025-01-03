@@ -4,8 +4,7 @@
 </script>
 <div class="text-center">
     <h1 class="title text-6xl font-title mb-10">Como colaborar?</h1>
-
-    <ul class="content flex flex-col gap-5">
+    <ul class="content mb-10 flex flex-col gap-5">
         <li class="">1. Entre no <a target="_blank" href="https://whatsapp.com/channel/0029Vay4GvJ6BIEpMiwdD43i" class="text-t">canal do whatsapp</a> <br> <div class="flex w-full h-auto justify-center items-center my-10">
             <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733154979/pexels-anton-8100-46924_p5hxug.jpg" class=" w-[40%] rounded-xl aspect-auto hover:cursor-cell hover:scale-[1.5] drop-shadow-[0_0_5px_white]" />
         </div></li>
@@ -18,6 +17,7 @@
         <li class="">5. Caso gostarmos da sua idéia você poderá nos ajudar na elaboração da mesma</li>
         <li class="">6. Após colaborar, o removeremos do grupo vídeos e faremos o mesmo processo novamente.</li>
     </ul>
+    <a href="/descobrir/colaborar/scsm" class="content text-t">Saiba melhor como funciona</a> <br> - <br> <a href="/descobrir/colaborar/ranking" class="content text-t">Veja o ranking de colaboradores</a>
     <h2 class="title text-6xl font-title mt-20">Vantagens</h2>
     <ul class="content flex flex-col gap-5 mt-10 font-bold">
         <li class="">

@@ -9,10 +9,7 @@
 </script> 
 
 <div class="scroll-smooth text-q bg-p font-body text-2xl h-full relative">
-	<div class="h-[200px] w-[50px] absolute top-[200px] left-5 blur-[50px] bg-s bg-opacity-[.5] animate z-1"></div>
-	<div class="h-[200px] w-[70px] absolute top-[500px] right-5 blur-[50px] bg-s bg-opacity-[.5] animate z-1"></div>
-	<div class="h-[500px] w-[80px] absolute top-[200px] left-[300px] blur-[50px] bg-s bg-opacity-[.5] z-1"></div>
-	<div>
+	<div class="block p-5" >
 		<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
 		<script src="https://files.bpcontent.cloud/2024/12/09/21/20241209215359-S1KBOM9K.js"></script>
 	</div>
@@ -63,7 +60,7 @@
 				<a class="menuitem drop-shadow-[0_0_5px_white]" href="https://tiktok.com/">Tiktok</a>
 			</li>
 		</ul>
-		<ul class="underline flex text-xl flex-wrap text-q gap-5">
+		<ul class="underline justify-center flex text-xl flex-wrap text-q gap-5">
 			<li >
 				<a class="menuitem drop-shadow-[0_0_5px_white]" href="/sobre/politica-de-privacidade">Política de provacidade</a>
 			</li>

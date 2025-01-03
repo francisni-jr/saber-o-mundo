@@ -59,7 +59,7 @@
     <p class="content mb-20" >O selo acima é o selo Desenvolvedor. Ele é o selo disponível apenas para os criadores iniciais do projeto. Eles administram e ordenam o projeto desde sua criação, também são responsáveis pela manutenção desse ranking.</p>
     </div>
     <div class="content text-center">
-        <a href="/descobrir/colaborar/scsm" class="text-center underline text-t">Veja como funciona o SSCM ( Sistema de Colaboradores do Saber o Mundo)</a>
+        <a href="/descobrir/colaborar/scsm" class="text-center text-t">Veja como funciona o SSCM ( Sistema de Colaboradores do Saber o Mundo)</a>
     </div>
 </div>   
 

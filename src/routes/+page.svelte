@@ -1,12 +1,13 @@
 <div class="relative text-center">
     
-    <div class="bg-s bg-opacity-[.5] p-20 rounded-xl flex flex-wrap justify-center items-center gap-5 md:gap-20 bg-s" >
-        <div class="w-auto" >
+    <div class="bg-s  bg-opacity-[.3] p-20 rounded-xl flex flex-wrap justify-center items-center gap-5 md:gap-20" >
+        <div class="max-w-auto" >
             <h1 class="title text-5xl font-title mb-10 drop-shadow-[0_0_10px_blue]">Saber o Mundo</h1>
         <img src="https://res.cloudinary.com/dncs4zash/image/upload/v1733873351/smpicture_gtutt2.png" alt="img" class="content mx-auto w-40 mb-5 drop-shadow-[0_0_30px_black]">
+        <p class="content mt-10 mb-10">Viajando em diversos tópicos interessantes...</p>
         </div>
     
-        <div class="max-w-[500px] content flex flex-col w-full justify-center">
+        <!-- <div class="max-w-[500px] content flex flex-col w-full justify-center">
             <p class="content mt-10 mb-10">Viajando em diversos tópicos interessantes...</p>
             <div style="background-image: url(https://res.cloudinary.com/dncs4zash/image/upload/v1735692179/planesgif_decchi.gif);" class=" aspect-square text-1xl bg-cover bg-center rounded-xl drop-shadow-[0_0_5px_black]">
                 <ul  class="text-center font-bold bg-s bg-opacity-[.3] rounded-xl text-t gap-5 p-10 py-20 aspect-square">
@@ -20,7 +21,7 @@
                     <li class="text-q drop-shadow-[0_0_5px_blue]">Abertura a possibilidades</li>
                 </ul>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <a href="/sobre" class="w-auto content bg-t text-q text-xl bg-gt p-5 rounded-xl drop-shadow-[0_0_20px_orange]">Saiba mais</a>

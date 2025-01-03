@@ -20,7 +20,7 @@
 
     <p class="content text-center my-10">Conheça os nossos recursos e saiba mais sobre o que postamos nas redes sociais:</p> 
     <div class="text-center">
-        <a target="_blank" href="/descobrir" class="content text-p text-xl bg-t p-5 rounded-xl">Descobrir</a>
+        <a target="_blank" href="/descobrir" class="content text-xl bg-t p-5 rounded-xl drop-shadow-[0_0_20px_orange]">Descobrir</a>
     </div>
 </div>  
 
