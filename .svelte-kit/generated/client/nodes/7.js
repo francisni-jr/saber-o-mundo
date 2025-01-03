@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/sobre/diretrizes-de-conteudo/+page.svelte";
+export { default as component } from "../../../../src/routes/descobrir/colaborar/scsm/+page.svelte";
